@@ -1,2 +1,2 @@
 # Cultural-Modalities-
-This is a Logic Pro plugin that can be used to transpose notes across various cultural modalities.
+This is a Logic Pro plugin that transposes notes across various cultural modalities. To use this plugin, copy and paste the PDF file into Scripter and run the code. If you want to change the modality, simply scroll to where it says "var activeRaagName =" and then type or paste the name of the modality you want to use after the =. Make sure to put the name of the modality in quotes.
